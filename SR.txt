@@ -51,7 +51,7 @@ Polański Paweł [5.5]
 Projekt A: JavaFX_aklimatyzacja [https://github.com/Josh55/KF_AppControl
 Projekt B: Panel kontrolny do interpretacji, testów oraz kalibracji filtra danych opartego o algorytm Kalmana [https://github.com/Josh55/KF_AppControl]
 
-Zieliński Grzegorz [5.0]
+Zieliński Grzegorz [4.5]
 Projekt A: Temat Snake [OK, wersja minimal-design, mozna poprawic back-buffering]
 Projekt B: Catch the baton [https://github.com/grzesieking10/CATCHTHEBATON2]
 
