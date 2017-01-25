@@ -13,50 +13,48 @@ Projekt A: licznik [https://github.com/AChudzynska/licznik]
  POPRAWIONE
 Projekt B: Temat [link do repozytorium]
 
-
-Dase Wojciech
+Dase Wojciech 
 Projekt A: Sterowanie diodą RGB [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
-Kuźmiński Paweł
+Kuźmiński Paweł 
 Projekt A: Symulacja działania diody RGB https://github.com/Pawelox/Avenger2016.git [OK, arduino + HSV + UserCtrl]
 Projekt B: Temat [link do repozytorium]
-
 
 Fedoryka Grzegorz
 Projekt A: Gra w unikanie [https://github.com/GrzegorzFedoryka/simple_game_winapi] [OK, ale po co 6 timerów!!!]
 Projekt B: Temat [link do repozytorium]
 
-Kanus Mateusz
+Kanus Mateusz [???]
 Projekt A: Temat [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
 
 
-Ligas Szymon  
+Ligas Szymon [???]
 Projekt A: Temat [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
 
-Mnich Jakub  
+Mnich Jakub [5.5]
 Projekt A: SCADA do stanowiska do badania algorytmów regulacji napędów śmigłowych (Java) [https://github.com/jmnich/GroundStation1.0] [OK!!]
 Projekt B: Temat [link do repozytorium]
 
-Mosak Maciej
+Mosak Maciej [?? brak B]
 Projekt A: Sterowanie zespołem przekaźników ze sprzężeniem zwrotnym [https://github.com/maciejmosak/relay]
  -- bez kopypasteryzmu!!!
  -- struktura/klasa Relay, a w niej: { Button, state, command }
 Projekt B: Temat [link do repozytorium]
 
-Niemczuk Jakub
+Niemczuk Jakub [5.5]
 Projekt A: Not a Universal Resistance Meter [https://github.com/Halogenek/NURM] [OK!!]
 Projekt B: Temat [link do repozytorium]
 
-Polański Paweł
+Polański Paweł [5.5]
 Projekt A: JavaFX_aklimatyzacja [https://github.com/Josh55/KF_AppControl
 Projekt B: Panel kontrolny do interpretacji, testów oraz kalibracji filtra danych opartego o algorytm Kalmana [https://github.com/Josh55/KF_AppControl]
 
-Zieliński Grzegorz
+Zieliński Grzegorz [5.0]
 Projekt A: Temat Snake [OK, wersja minimal-design, mozna poprawic back-buffering]
 Projekt B: Temat [link do repozytorium]
 
-Ziółkowski Artur
-Projekt A: Klawisze (pianino) wykonane w WinAPI. https://github.com/arturziolkowski/piano [prawie OPK]
+Ziółkowski Artur [4.0]
+Projekt A: Klawisze (pianino) wykonane w WinAPI. https://github.com/arturziolkowski/piano [prawie OK]
 Projekt B: https://github.com/arturziolkowski/Paint/projects
