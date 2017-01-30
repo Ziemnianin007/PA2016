@@ -3,8 +3,8 @@ Termin oddania sprawnego projektu B: do końca semestru (01.02.2017)
 Pliki źródłowe projektów proszę wrzucić na własne konta GitHub.
 
 Aniulis Jakub
-Projekt A: Temat [link do repozytorium]
-Projekt B: Temat [link do repozytorium]
+Projekt A: Przeglądarka multimediów [https://github.com/Ziemnianin007/GasSmiulator-5/tree/master/Try2]
+Projekt B: JOGL animation with multithreading [https://github.com/Ziemnianin007/PA2016Project2/tree/master/PA2016Project2]
 
 Chudzyńska Aleksandra
 Projekt A: Temat [link do repozytorium]
