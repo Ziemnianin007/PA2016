@@ -41,7 +41,7 @@ Mosak Maciej [?? brak B]
 Projekt A: Sterowanie zespołem przekaźników ze sprzężeniem zwrotnym [https://github.com/maciejmosak/relay]
  -- bez kopypasteryzmu!!!
  -- struktura/klasa Relay, a w niej: { Button, state, command }
-Projekt B: Temat [link do repozytorium]
+Projekt B: NFC catcher - pseudoterenowa pseudogra na androida [https://github.com/maciejmosak/nfc_catcher/]
 
 Niemczuk Jakub [5.5]
 Projekt A: Not a Universal Resistance Meter [https://github.com/Halogenek/NURM] [OK!!]
