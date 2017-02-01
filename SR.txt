@@ -4,7 +4,7 @@ Pliki źródłowe projektów proszę wrzucić na własne konta GitHub.
 
 Aniulis Jakub
 Projekt A: Przeglądarka grafiki [https://github.com/Ziemnianin007/GasSmiulator-5] [OK!, JLabel z ikoną, rysowanie 2d]
-Projekt B: Temat [link do repozytorium]
+Projekt B: JOGL animation with multithreading [https://github.com/Ziemnianin007/PA2016Project2/tree/master/PA2016Project2]
 
 Chudzyńska Aleksandra [4.0 fin]
 Projekt A: licznik [https://github.com/AChudzynska/licznik]
