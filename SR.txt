@@ -22,7 +22,7 @@ Projekt B: Temat [link do repozytorium]
 
 Fedoryka Grzegorz
 Projekt A: Gra w unikanie [https://github.com/GrzegorzFedoryka/simple_game_winapi] [OK, ale po co 6 timerów!!!]
-Projekt B: Temat [link do repozytorium]
+Projekt B: Prawie-przeglądarka [https://github.com/GrzegorzFedoryka/webbrowser]
 
 Kanus Mateusz [???]
 Projekt A: Temat [link do repozytorium]
