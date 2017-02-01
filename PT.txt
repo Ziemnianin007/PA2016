@@ -41,6 +41,7 @@ Projekt B: Oprogramowanie do zbierania i przedstawiania danych [https://github.c
 Paweł Cyprys 227279
 Projekt A: Rozpoznawanie twarzy https://github.com/cyrylpawel/rozpoznawanie_twarzy [OK+; 20161125]
 Projekt B: Rozpoznawanie twarzy z bazą danych https://github.com/cyrylpawel/projekt2
+ --> Image.FromFile(@"C:\zdjecia\MyPic.jpg") to nie jest dobry pomysł...
 
 Michał Pływacz 221254
 Projekt A: Kontroler diody RGB pod arduino korzystający z bibliotek QT https://github.com/mplywacz/Serial_RGB_LED [OK!; 20161125]
